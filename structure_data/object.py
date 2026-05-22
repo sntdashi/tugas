@@ -1,5 +1,5 @@
 class Mahasiswa:
-    def __init__(self, nama, nim, jurusan):
+    def __init__(self, nama, nim, jurusan): # Constructor untuk inisialisasi atribut mahasiswa
         self.nama = nama
         self.nim = nim
         self.jurusan = jurusan
